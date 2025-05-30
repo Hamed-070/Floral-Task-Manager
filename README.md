@@ -44,7 +44,7 @@ This application provides a comprehensive set of features to add, view, edit, de
 ## ▶️ How to Run
 
     📥 Clone the repository:
-    git clone <repository-url>
+    git clone https://github.com/Hamed-070/Floral-Task-Manager.git
 
     🧰 Ensure Python 3.x is installed
 
